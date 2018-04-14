@@ -12,7 +12,7 @@ Funtional Requirements:
 • The system provides a unique account/profile to a user which he can access after registering and verifying his account.
 • The verification process requires government approved IDs at the time of registration.
 
-2.Room Booking
+2. Room Booking
 • The user can book his room on the basis of availability. He has to provide his details such as name, their address, age, gender, relations, duration of stay in the guest house which are notified to the guest house staff.
 • If there is no room available, the visitor can add him/her-self to the waiting queue.
 • If there is any cancelation, the booking would be confirmed automatically.
